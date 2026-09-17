@@ -1,0 +1,6 @@
+# Служебные и тяжёлые файлы портфеля не храним в git
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+assets/_local/
