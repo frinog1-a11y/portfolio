@@ -16,7 +16,7 @@
   ограничение `max_tokens`. Публичный результат, а не эксперимент.
 - `cases/dev/05-cline-art-music.md` — промты и негативы как версионируемые файлы в git (18 итераций),
   диагностика «промт на 2 618 символов не влезал в окно CLIP в 77 токенов» и лечивший её короткий промт.
-- `cases/dev/04-echelon-beyond.md` — файл `AGENTS.md` репозитория проекта игры: правила и контракт
+- `cases/dev/04-echelon-beyond.md` — файл AGENTS.md репозитория проекта игры: правила и контракт
   результата для агента.
 
 ## Уровень
@@ -38,5 +38,5 @@
 - `cases/dev/02-normcontrol-kb.md` — `.github/scripts/ai.mjs`, `.github/scripts/note-from-issue.mjs`,
   шаблон issue, живой сайт https://frinog1-a11y.github.io/normcontrol-kb/
 - `cases/dev/05-cline-art-music.md` — tools/fooocus (106 файлов, включая десятки файлов промтов).
-- `cases/dev/04-echelon-beyond.md` — файлы `AGENTS.md` и `TASKS.md` репозитория проекта игры,
+- `cases/dev/04-echelon-beyond.md` — файлы AGENTS.md и TASKS.md репозитория проекта игры,
   доска задач с автопостановкой карточек.
