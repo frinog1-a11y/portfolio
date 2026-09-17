@@ -248,23 +248,23 @@ Creative track:
 
 | № | Кейс | Тип | Оценка | Файл |
 |---|---|---|---|---|
-| 01 | Видеокамера (видеоняня на домашнем ПК) | продукт | работает, 18 коммитов, эксплуатация дома | [dev/01-videokamera.md](cases/dev/01-videokamera.md) |
-| 02 | «Между строк чертежа» — база знаний нормоконтролёра | продукт (публичный) | работает, 53 коммита, живой сайт | [dev/02-normcontrol-kb.md](cases/dev/02-normcontrol-kb.md) |
-| 03 | Мини-игра «Сквозь Зыбь» (пасхалка /echelon) | демо | работает, 1 893 строки JS, открыта публично | [dev/03-echelon-mini-game.md](cases/dev/03-echelon-mini-game.md) |
-| 04 | Echelon Beyond — мир, 18 томов, ассеты | метод (приватный проект) | документация и производство готовы, код игры не начат | [dev/04-echelon-beyond.md](cases/dev/04-echelon-beyond.md) |
-| 05 | Оркестрация ИИ для арта и музыки | метод | работает: своя LoRA, ~300 треков, 141 кадр меню | [dev/05-cline-art-music.md](cases/dev/05-cline-art-music.md) |
-| 06 | Печатная вёрстка книг и руководств | инструмент | работает: 194 PDF пересобраны с полями под печать | [dev/06-txt-to-docx.md](cases/dev/06-txt-to-docx.md) |
-| 07 | Пайплайн «телефон → ноутбук → домашний ПК» | инструмент | работает дома, 68 файлов автоматизации | [dev/07-echelon-remote-pipeline.md](cases/dev/07-echelon-remote-pipeline.md) |
+| 01 | Видеокамера (видеоняня на домашнем ПК) | продукт | работает, 18 коммитов, эксплуатация дома | [dev/01-videokamera.md](cases/dev/01-videokamera.ru.md) |
+| 02 | «Между строк чертежа» — база знаний нормоконтролёра | продукт (публичный) | работает, 53 коммита, живой сайт | [dev/02-normcontrol-kb.md](cases/dev/02-normcontrol-kb.ru.md) |
+| 03 | Мини-игра «Сквозь Зыбь» (пасхалка /echelon) | демо | работает, 1 893 строки JS, открыта публично | [dev/03-echelon-mini-game.md](cases/dev/03-echelon-mini-game.ru.md) |
+| 04 | Echelon Beyond — мир, 18 томов, ассеты | метод (приватный проект) | документация и производство готовы, код игры не начат | [dev/04-echelon-beyond.md](cases/dev/04-echelon-beyond.ru.md) |
+| 05 | Оркестрация ИИ для арта и музыки | метод | работает: своя LoRA, ~300 треков, 141 кадр меню | [dev/05-cline-art-music.md](cases/dev/05-cline-art-music.ru.md) |
+| 06 | Печатная вёрстка книг и руководств | инструмент | работает: 194 PDF пересобраны с полями под печать | [dev/06-txt-to-docx.md](cases/dev/06-txt-to-docx.ru.md) |
+| 07 | Пайплайн «телефон → ноутбук → домашний ПК» | инструмент | работает дома, 68 файлов автоматизации | [dev/07-echelon-remote-pipeline.md](cases/dev/07-echelon-remote-pipeline.ru.md) |
 
 ### Творческие кейсы (cases/creative/)
 
 | № | Кейс | Тип | Оценка | Файл |
 |---|---|---|---|---|
-| 01 | «Лориэн» — переносимая личность ИИ | R&D / метод | ongoing: 6 версий кристаллов, 4 роли ассистента | [creative/01-lorien.md](cases/creative/01-lorien.md) |
-| 02 | D&D-модуль «Проклятие Раздора в Снежной Долине» | R&D / материал для стола | завершён: 9 NPC, 4 локации, 3 сценария | [creative/02-dnd-module.md](cases/creative/02-dnd-module.md) |
-| 03 | «Таверные Саги» — баланс карточного рогалика | R&D / метод | прототип: формулы, таблицы баланса, экономика | [creative/03-tavern-tales.md](cases/creative/03-tavern-tales.md) |
-| 04 | Prompt-инженерия для творческих AI-проектов | метод (сквозной) | ongoing: 6 приёмов + управление эмоциональным слоем | [creative/04-prompt-engineering.md](cases/creative/04-prompt-engineering.md) |
-| 06 | Адаптация D&D 5e под кастомный мир Echelon Beyond | R&D / rules hacking | завершён: 4 расы, 4 класса, бестиарий, 1 сессия | [creative/06-dnd-adaptation.md](cases/creative/06-dnd-adaptation.md) |
+| 01 | «Лориэн» — переносимая личность ИИ | R&D / метод | ongoing: 6 версий кристаллов, 4 роли ассистента | [creative/01-lorien.md](cases/creative/01-lorien.ru.md) |
+| 02 | D&D-модуль «Проклятие Раздора в Снежной Долине» | R&D / материал для стола | завершён: 9 NPC, 4 локации, 3 сценария | [creative/02-dnd-module.md](cases/creative/02-dnd-module.ru.md) |
+| 03 | «Таверные Саги» — баланс карточного рогалика | R&D / метод | прототип: формулы, таблицы баланса, экономика | [creative/03-tavern-tales.md](cases/creative/03-tavern-tales.ru.md) |
+| 04 | Prompt-инженерия для творческих AI-проектов | метод (сквозной) | ongoing: 6 приёмов + управление эмоциональным слоем | [creative/04-prompt-engineering.md](cases/creative/04-prompt-engineering.ru.md) |
+| 06 | Адаптация D&D 5e под кастомный мир Echelon Beyond | R&D / rules hacking | завершён: 4 расы, 4 класса, бестиарий, 1 сессия | [creative/06-dnd-adaptation.md](cases/creative/06-dnd-adaptation.ru.md) |
 
 Бывший кейс «Эмоциональный дизайн в AI-историях» вынесен в `cases/creative/05-emotional-design.md.archived`
 и объединён с кейсом 04 (раздел «Управление эмоциональным слоем»): причина — в `_archive/05-emotional-design/REASON.md`.
@@ -279,17 +279,17 @@ Creative track:
 
 | Навык | Направление | Уровень | Где подтверждён |
 |---|---|---|---|
-| [Оркестрация ИИ-агентов](skills/ai-orchestration.md) | сквозной | продвинутый | dev/04 (51 агентский коммит, AGENTS.md), dev/02 (HANDOFF.md, конвейер из issue), dev/07, creative/04; включая обучение агента работе с внешними инструментами: генерация изображений, обучение LoRA, музыка, LLM-провайдеры |
-| [Оркестрация Cline для внешних инструментов](skills/cline-as-tool-orchestrator.md) | сквозной | продвинутый | dev/05 (Fooocus, kohya_ss, ACE-Step), dev/07 (Ollama, LM Studio), dev/02 (DeepSeek в CI), dev/04 (AGENTS.md) |
-| [Локальные сервисы: HTTPS, auth, WebRTC](skills/fullstack-local.md) | dev | уверенный | dev/01 (HTTPS 8443, Basic Auth, WebRTC, служба), dev/02 (живой сайт с CI), dev/03, dev/07 |
-| [Автоматизация Windows и CI](skills/automation.md) | сквозной | уверенный | dev/01 (18 инструментов, задачи), dev/06 (22 скрипта, 194 PDF), dev/07 (68 файлов), dev/02 (Actions), dev/04 |
-| [Контент-пайплайн: текст → сайт → печать](skills/content-pipeline.md) | сквозной | уверенный | dev/02 (128 заметок, аудит связей), dev/06 (печатный комплект), dev/04 (18 томов), dev/03 |
-| [Единый визуальный стиль (LoRA + промты)](skills/visual-style.md) | dev | уверенный | dev/05 (LoRA, 18 итераций промта, 141 кадр), dev/04 (регламент арта) |
-| [Локальный ИИ на 8 ГБ видеопамяти](skills/local-ai-gpu.md) | dev | продвинутый | dev/05 (ускорение обучения в 11x и 1,8x, две LoRA, ~300 треков), dev/07 (локальные LLM) |
-| [Удалённый доступ и домашняя инфраструктура](skills/remote-access.md) | dev | уверенный | dev/07 (68 файлов, 6 документов), dev/01 (доступ извне), dev/04 (правило источника истины) |
-| [Prompt-инженерия](skills/prompt-engineering.md) | сквозной | продвинутый | creative/01 (6 версий кристаллов, 4 роли), creative/04 (6 приёмов), dev/02 (ИИ-конвейер), dev/05 (промты как файлы в git, 18 итераций), dev/04 (правила для агента) |
-| [Нарративный дизайн](skills/narrative-design.md) | creative | уверенный | creative/02 (9 NPC, 4 локации, 3 сценария), creative/01, creative/05, creative/03, dev/04 (18 томов), dev/03 (лорные записки) |
-| [Геймдизайн](skills/game-design.md) | creative | уверенный | creative/03 (веса 2/5/8, прогрессия, формулы, таблицы баланса), creative/02 («Осколки Веры»), dev/03 (игра на 1 893 строки), dev/04 (TASKS.md, том VII) |
+| [Оркестрация ИИ-агентов](skills/ai-orchestration.ru.md) | сквозной | продвинутый | dev/04 (51 агентский коммит, AGENTS.md), dev/02 (HANDOFF.md, конвейер из issue), dev/07, creative/04; включая обучение агента работе с внешними инструментами: генерация изображений, обучение LoRA, музыка, LLM-провайдеры |
+| [Оркестрация Cline для внешних инструментов](skills/cline-as-tool-orchestrator.ru.md) | сквозной | продвинутый | dev/05 (Fooocus, kohya_ss, ACE-Step), dev/07 (Ollama, LM Studio), dev/02 (DeepSeek в CI), dev/04 (AGENTS.md) |
+| [Локальные сервисы: HTTPS, auth, WebRTC](skills/fullstack-local.ru.md) | dev | уверенный | dev/01 (HTTPS 8443, Basic Auth, WebRTC, служба), dev/02 (живой сайт с CI), dev/03, dev/07 |
+| [Автоматизация Windows и CI](skills/automation.ru.md) | сквозной | уверенный | dev/01 (18 инструментов, задачи), dev/06 (22 скрипта, 194 PDF), dev/07 (68 файлов), dev/02 (Actions), dev/04 |
+| [Контент-пайплайн: текст → сайт → печать](skills/content-pipeline.ru.md) | сквозной | уверенный | dev/02 (128 заметок, аудит связей), dev/06 (печатный комплект), dev/04 (18 томов), dev/03 |
+| [Единый визуальный стиль (LoRA + промты)](skills/visual-style.ru.md) | dev | уверенный | dev/05 (LoRA, 18 итераций промта, 141 кадр), dev/04 (регламент арта) |
+| [Локальный ИИ на 8 ГБ видеопамяти](skills/local-ai-gpu.ru.md) | dev | продвинутый | dev/05 (ускорение обучения в 11x и 1,8x, две LoRA, ~300 треков), dev/07 (локальные LLM) |
+| [Удалённый доступ и домашняя инфраструктура](skills/remote-access.ru.md) | dev | уверенный | dev/07 (68 файлов, 6 документов), dev/01 (доступ извне), dev/04 (правило источника истины) |
+| [Prompt-инженерия](skills/prompt-engineering.ru.md) | сквозной | продвинутый | creative/01 (6 версий кристаллов, 4 роли), creative/04 (6 приёмов), dev/02 (ИИ-конвейер), dev/05 (промты как файлы в git, 18 итераций), dev/04 (правила для агента) |
+| [Нарративный дизайн](skills/narrative-design.ru.md) | creative | уверенный | creative/02 (9 NPC, 4 локации, 3 сценария), creative/01, creative/05, creative/03, dev/04 (18 томов), dev/03 (лорные записки) |
+| [Геймдизайн](skills/game-design.ru.md) | creative | уверенный | creative/03 (веса 2/5/8, прогрессия, формулы, таблицы баланса), creative/02 («Осколки Веры»), dev/03 (игра на 1 893 строки), dev/04 (TASKS.md, том VII) |
 
 ## Суммарные метрики
 

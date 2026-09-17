@@ -85,10 +85,10 @@ LLM чат-модели, AI-ассистент «Лориэн» (версии п
 
 ## Связанные кейсы
 
-- [../../cases/creative/01-lorien.md](../../cases/creative/01-lorien.md) — эволюция персонажа до Версии 3.0.
-- [../../cases/creative/02-dnd-module.md](../../cases/creative/02-dnd-module.md) — эмоциональная мотивация антагониста как приём.
-- [../../cases/creative/03-tavern-tales.md](../../cases/creative/03-tavern-tales.md) — нарратив, встроенный в игровую систему.
-- [../../cases/creative/04-prompt-engineering.md](../../cases/creative/04-prompt-engineering.md) — управление эмоциональным слоем в методологии.
+- [../../cases/creative/01-lorien.ru.md](../../cases/creative/01-lorien.ru.md) — эволюция персонажа до Версии 3.0.
+- [../../cases/creative/02-dnd-module.ru.md](../../cases/creative/02-dnd-module.ru.md) — эмоциональная мотивация антагониста как приём.
+- [../../cases/creative/03-tavern-tales.ru.md](../../cases/creative/03-tavern-tales.ru.md) — нарратив, встроенный в игровую систему.
+- [../../cases/creative/04-prompt-engineering.ru.md](../../cases/creative/04-prompt-engineering.ru.md) — управление эмоциональным слоем в методологии.
 
 ## Следующие шаги
 

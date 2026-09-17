@@ -81,13 +81,13 @@ LLM чат-модели, AI-ассистент «Лориэн» (ведёт че
 
 ## Связанные кейсы
 
-- [01-lorien.md](01-lorien.md) — модуль разрабатывался в диалоге с AI-персонажем.
-- [03-tavern-tales.md](03-tavern-tales.md) — общая механика «Осколки Веры».
-- [06-dnd-adaptation.md](06-dnd-adaptation.md) — адаптация правил и бестиария под кастомный мир.
-- [04-prompt-engineering.md](04-prompt-engineering.md) — методология работы с ассистентом.
-- [04-prompt-engineering.md](04-prompt-engineering.md) — управление эмоциональным слоем (мотивация антагониста как приём).
-- [../dev/04-echelon-beyond.md](../dev/04-echelon-beyond.md) — нарративный дизайн собственного мира.
-- [../dev/03-echelon-mini-game.md](../dev/03-echelon-mini-game.md) — лорные записки как приём подачи сюжета.
+- [01-lorien.ru.md](01-lorien.ru.md) — модуль разрабатывался в диалоге с AI-персонажем.
+- [03-tavern-tales.ru.md](03-tavern-tales.ru.md) — общая механика «Осколки Веры».
+- [06-dnd-adaptation.ru.md](06-dnd-adaptation.ru.md) — адаптация правил и бестиария под кастомный мир.
+- [04-prompt-engineering.ru.md](04-prompt-engineering.ru.md) — методология работы с ассистентом.
+- [04-prompt-engineering.ru.md](04-prompt-engineering.ru.md) — управление эмоциональным слоем (мотивация антагониста как приём).
+- [../dev/04-echelon-beyond.ru.md](../dev/04-echelon-beyond.ru.md) — нарративный дизайн собственного мира.
+- [../dev/03-echelon-mini-game.ru.md](../dev/03-echelon-mini-game.ru.md) — лорные записки как приём подачи сюжета.
 
 ## Следующие шаги
 

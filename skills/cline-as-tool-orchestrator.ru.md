@@ -9,15 +9,15 @@
 
 ## Где подтверждено
 
-- `cases/dev/05-cline-art-music.md` — раздел «Роль Cline в пайплайне»: Fooocus (генерация),
+- `cases/dev/05-cline-art-music.ru.md` — раздел «Роль Cline в пайплайне»: Fooocus (генерация),
   kohya_ss (обучение LoRA), ACE-Step (музыка). Агент запускает батчи, собирает метрики контроля
   качества (палитра, метаданные PNG, хеши), версионирует промты в git, отбраковывает слабые кадры,
   идемпотентно ставит пресет стиля и патчит драйвер генератора.
-- `cases/dev/07-echelon-remote-pipeline.md` — пункт 8 раздела «Решение»: Ollama и LM Studio.
+- `cases/dev/07-echelon-remote-pipeline.ru.md` — пункт 8 раздела «Решение»: Ollama и LM Studio.
   Агент поднимает сервер модели, проверяет доступность, отправляет тестовый запрос и снимает статус.
-- `cases/dev/02-normcontrol-kb.md` — DeepSeek в GitHub Actions: агентная логика живёт в workflow
+- `cases/dev/02-normcontrol-kb.ru.md` — DeepSeek в GitHub Actions: агентная логика живёт в workflow
   и превращает текст из issue в заметку базы знаний.
-- `cases/dev/04-echelon-beyond.md` — AGENTS.md: контракт результата для агента в репозитории
+- `cases/dev/04-echelon-beyond.ru.md` — AGENTS.md: контракт результата для агента в репозитории
   (папка deliveries, обязательный SUMMARY.md, правила git).
 
 ## Уровень

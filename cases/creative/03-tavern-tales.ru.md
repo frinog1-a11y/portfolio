@@ -89,11 +89,11 @@ LLM чат-модели, Cline (фиксация документов), конц
 
 ## Связанные кейсы
 
-- [01-lorien.md](01-lorien.md) — AI-ассистент работал системным дизайнером и балансировщиком.
-- [02-dnd-module.md](02-dnd-module.md) — общая механика «Осколки Веры».
-- [04-prompt-engineering.md](04-prompt-engineering.md) — методология постановки задач ассистенту.
-- [../dev/03-echelon-mini-game.md](../dev/03-echelon-mini-game.md) — игровые механики: слои, боссы, риск.
-- [../dev/04-echelon-beyond.md](../dev/04-echelon-beyond.md) — боевая система и прогрессия в проектной документации.
+- [01-lorien.ru.md](01-lorien.ru.md) — AI-ассистент работал системным дизайнером и балансировщиком.
+- [02-dnd-module.ru.md](02-dnd-module.ru.md) — общая механика «Осколки Веры».
+- [04-prompt-engineering.ru.md](04-prompt-engineering.ru.md) — методология постановки задач ассистенту.
+- [../dev/03-echelon-mini-game.ru.md](../dev/03-echelon-mini-game.ru.md) — игровые механики: слои, боссы, риск.
+- [../dev/04-echelon-beyond.ru.md](../dev/04-echelon-beyond.ru.md) — боевая система и прогрессия в проектной документации.
 
 ## Следующие шаги
 

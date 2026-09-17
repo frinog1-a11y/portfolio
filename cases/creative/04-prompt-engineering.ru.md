@@ -99,12 +99,12 @@ Markdown, GitHub Actions (в техническом применении мет�
 
 ## Связанные кейсы
 
-- [01-lorien.md](01-lorien.md) — главный артефакт методологии.
-- [02-dnd-module.md](02-dnd-module.md) — длительный творческий проект на той же методологии.
-- [03-tavern-tales.md](03-tavern-tales.md) — постановка задач ассистенту как системному дизайнеру.
-- [../dev/02-normcontrol-kb.md](../dev/02-normcontrol-kb.md) — ИИ-конвейер «issue → заметка»: та же логика.
-- [../dev/05-cline-art-music.md](../dev/05-cline-art-music.md) — промты как версионируемые артефакты в git.
-- [../dev/04-echelon-beyond.md](../dev/04-echelon-beyond.md) — правила для агентов и контракт результата.
+- [01-lorien.ru.md](01-lorien.ru.md) — главный артефакт методологии.
+- [02-dnd-module.ru.md](02-dnd-module.ru.md) — длительный творческий проект на той же методологии.
+- [03-tavern-tales.ru.md](03-tavern-tales.ru.md) — постановка задач ассистенту как системному дизайнеру.
+- [../dev/02-normcontrol-kb.ru.md](../dev/02-normcontrol-kb.ru.md) — ИИ-конвейер «issue → заметка»: та же логика.
+- [../dev/05-cline-art-music.ru.md](../dev/05-cline-art-music.ru.md) — промты как версионируемые артефакты в git.
+- [../dev/04-echelon-beyond.ru.md](../dev/04-echelon-beyond.ru.md) — правила для агентов и контракт результата.
 
 ## Следующие шаги
 

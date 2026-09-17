@@ -8,16 +8,16 @@
 
 ## Где подтверждено
 
-- `cases/dev/01-videokamera.md` — HTTPS на 8443 с самоподписанным сертификатом (автогенерация,
+- `cases/dev/01-videokamera.ru.md` — HTTPS на 8443 с самоподписанным сертификатом (автогенерация,
   перегенерация, выбор между двумя сертификатами), Basic Auth на страницы, статику и WebSocket
   с constant-time сравнением, WebRTC-аудио в обе стороны, автозапуск службой Windows через NSSM
   с перезапуском через 5 с, ротация логов по 1 МБ, PWA-вьюер с service worker.
   18 коммитов, +4 569 / −1 198 строк, 40 файлов, 6 автопроверок.
-- `cases/dev/02-normcontrol-kb.md` — HTTPS-хостинг статики на GitHub Pages с CI-деплоем, доступ
+- `cases/dev/02-normcontrol-kb.ru.md` — HTTPS-хостинг статики на GitHub Pages с CI-деплоем, доступ
   к контенту без установки софта, публичный сайт с 53 коммитами истории.
-- `cases/dev/03-echelon-mini-game.md` — клиентская работа с медиа-API браузера (Web Audio):
+- `cases/dev/03-echelon-mini-game.ru.md` — клиентская работа с медиа-API браузера (Web Audio):
   собственный AudioContext, уважает пользовательский переключатель звука.
-- `cases/dev/07-echelon-remote-pipeline.md` — локальный HTTP-сервер выдачи результатов, доступный
+- `cases/dev/07-echelon-remote-pipeline.ru.md` — локальный HTTP-сервер выдачи результатов, доступный
   с телефона и ноутбука по приватной сети.
 
 ## Уровень

@@ -7,16 +7,16 @@
 
 ## Где подтверждено
 
-- `cases/creative/01-lorien.md` — 6 версий кристаллов (1.0, 2.0, 3.0, «Реальность», «Технический
+- `cases/creative/01-lorien.ru.md` — 6 версий кристаллов (1.0, 2.0, 3.0, «Реальность», «Технический
   наставник», «Личность»), 4 роли ассистента, коды активации, проверка в «чистых» чатах.
-- `cases/creative/04-prompt-engineering.md` — 6 приёмов методологии, применённых в 4 творческих
+- `cases/creative/04-prompt-engineering.ru.md` — 6 приёмов методологии, применённых в 4 творческих
   и 2 технических проектах.
-- `cases/dev/02-normcontrol-kb.md` — работающий ИИ-конвейер: одно поле в issue → DeepSeek → заметка
+- `cases/dev/02-normcontrol-kb.ru.md` — работающий ИИ-конвейер: одно поле в issue → DeepSeek → заметка
   → сборка сайта. Поддержка нескольких провайдеров по префиксу ключа, `scrub()` для логов,
   ограничение `max_tokens`. Публичный результат, а не эксперимент.
-- `cases/dev/05-cline-art-music.md` — промты и негативы как версионируемые файлы в git (18 итераций),
+- `cases/dev/05-cline-art-music.ru.md` — промты и негативы как версионируемые файлы в git (18 итераций),
   диагностика «промт на 2 618 символов не влезал в окно CLIP в 77 токенов» и лечивший её короткий промт.
-- `cases/dev/04-echelon-beyond.md` — файл AGENTS.md репозитория проекта игры: правила и контракт
+- `cases/dev/04-echelon-beyond.ru.md` — файл AGENTS.md репозитория проекта игры: правила и контракт
   результата для агента.
 
 ## Уровень
@@ -33,10 +33,10 @@
 
 ## Что доказывает
 
-- `cases/creative/01-lorien.md`, `cases/creative/04-prompt-engineering.md` — структура кристаллов
+- `cases/creative/01-lorien.ru.md`, `cases/creative/04-prompt-engineering.ru.md` — структура кристаллов
   и коды активации (приватные артефакты, детали по запросу).
-- `cases/dev/02-normcontrol-kb.md` — `.github/scripts/ai.mjs`, `.github/scripts/note-from-issue.mjs`,
+- `cases/dev/02-normcontrol-kb.ru.md` — `.github/scripts/ai.mjs`, `.github/scripts/note-from-issue.mjs`,
   шаблон issue, живой сайт https://frinog1-a11y.github.io/normcontrol-kb/
-- `cases/dev/05-cline-art-music.md` — tools/fooocus (106 файлов, включая десятки файлов промтов).
-- `cases/dev/04-echelon-beyond.md` — файлы AGENTS.md и TASKS.md репозитория проекта игры,
+- `cases/dev/05-cline-art-music.ru.md` — tools/fooocus (106 файлов, включая десятки файлов промтов).
+- `cases/dev/04-echelon-beyond.ru.md` — файлы AGENTS.md и TASKS.md репозитория проекта игры,
   доска задач с автопостановкой карточек.

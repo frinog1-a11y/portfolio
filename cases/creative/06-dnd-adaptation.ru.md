@@ -73,10 +73,10 @@ LLM чат-модели, AI-ассистент «Лориэн», Cline, D&D 5e (
 
 ## Связанные кейсы
 
-- [01-lorien.md](01-lorien.md) — разработка через AI-персонажа.
-- [02-dnd-module.md](02-dnd-module.md) — тот же жанр, отдельное приключение для стола.
-- [03-tavern-tales.md](03-tavern-tales.md) — общая механика «Осколки Веры».
-- [../dev/04-echelon-beyond.md](../dev/04-echelon-beyond.md) — исходный мир Echelon Beyond.
+- [01-lorien.ru.md](01-lorien.ru.md) — разработка через AI-персонажа.
+- [02-dnd-module.ru.md](02-dnd-module.ru.md) — тот же жанр, отдельное приключение для стола.
+- [03-tavern-tales.ru.md](03-tavern-tales.ru.md) — общая механика «Осколки Веры».
+- [../dev/04-echelon-beyond.ru.md](../dev/04-echelon-beyond.ru.md) — исходный мир Echelon Beyond.
 
 ## Следующие шаги
 
