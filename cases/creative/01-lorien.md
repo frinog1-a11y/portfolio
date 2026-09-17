@@ -85,7 +85,7 @@ LLM чат-модели (основной инструмент), Cline, DeepSeek
 
 - [04-prompt-engineering.md](04-prompt-engineering.md) — Лориэн как артефакт методологии.
 - [06-dnd-adaptation.md](06-dnd-adaptation.md) — адаптация D&D 5e под мир: ассистент как соавтор правил.
-- [05-emotional-design.md](05-emotional-design.md) — эволюция персонажа до Версии 3.0.
+- [04-prompt-engineering.md](04-prompt-engineering.md) — управление эмоциональным слоем и эволюция персонажа до Версии 3.0.
 - [02-dnd-module.md](02-dnd-module.md) — разработка модуля через AI-персонажа.
 - [03-tavern-tales.md](03-tavern-tales.md) — Лориэн в роли системного дизайнера и балансировщика.
 - [../dev/02-normcontrol-kb.md](../dev/02-normcontrol-kb.md) — та же логика работы с моделью в ИИ-конвейере.
