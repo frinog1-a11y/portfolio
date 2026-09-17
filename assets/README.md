@@ -1,3 +1,38 @@
+# Portfolio artifacts (screenshots, demos, previews)
+
+The folder is empty as of the portfolio creation — this is where supporting materials should appear.
+The rules are simple:
+
+- only de-identified material: no passwords, no private network addresses, no names of people or organisations;
+- file names tied to the case: 01-videokamera-viewer.png, 02-normcontrol-graph.png;
+- heavy video — as separate links (external hosting), with only a preview and the link in git.
+
+What makes sense to add first (see the roadmap in the root README):
+
+| Case | What to capture |
+|---|---|
+| 01 Videokamera | the viewer screen on a phone, the UAC update window, the service status |
+| 02 Knowledge base | home page, error card, link graph, the /add-note page |
+| 03 Mini-game | 3–4 combat frames, a lore note, the final animation |
+| 05 Art and music | the best menu frames, a before/after LoRA example, 2–3 selected tracks |
+| 06 Print layout | a before/after spread with mirrored margins |
+| 07 Pipeline | the results page on a phone (addresses hidden) |
+
+Creative track (cases/creative/):
+
+| Case | What can be added |
+|---|---|
+| 01 Lorien | a crystal structure diagram (core → roles → activation codes), a de-identified chat screenshot |
+| 02 D&D module | a location map, NPC cards (no personal data), a diagram of the three paths |
+| 03 Tavern Tales | a fragment of the balance table, the bartender economy scheme, a difficulty curve chart |
+| 04 Prompt engineering | a context versioning diagram, a de-identified prompt template |
+| 05 Emotional design | only a de-identified example of the hook-scene principle — no personal details |
+
+Remember: for the creative track the rule is stricter — personal names, circumstances and private artifacts must
+not appear in assets/, not even as screenshots.
+
+---
+
 # Артефакты портфеля (скриншоты, демо, превью)
 
 Папка пуста на момент создания портфеля — здесь должны появиться подтверждающие материалы.
