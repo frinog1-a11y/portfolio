@@ -38,7 +38,7 @@ navigation and needing no server side.
 | Metric | Value |
 |---|---|
 | Time spent | not documented |
-| Cost (API) | not documented (no confirmed extra AI spend) |
+| Cost (API) | $0 — no separate spend: the game was built inside the knowledge base project (paid DeepSeek API there, see dev/02) |
 | Commits | ≈ 12 of the 53 in the knowledge base repository |
 | Files changed | 3 main (game logic, wrapper note, styles and builder) |
 | Lines of code | 1,893 lines of game JavaScript (60.3 KB) plus game styles in custom.scss |

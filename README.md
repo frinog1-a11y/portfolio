@@ -95,7 +95,7 @@ counts) and tool inventories.
 | Metric | Value | Source |
 |---|---|---|
 | Cases in the portfolio | 12: 7 dev + 5 creative | portfolio structure |
-| Commits | 128 in external repositories (103 of them authored by me) + 64 in the portfolio itself | PetCam 18/54, Echelon Beyond 37/57, normcontrol-kb 48/53; portfolio — local git history |
+| Commits | 128 in external repositories (103 of them authored by me) + 69 in the portfolio itself | PetCam 18/54, Echelon Beyond 37/57, normcontrol-kb 48/53; portfolio — local git history |
 | Unique files touched | 604 | 40 + 218 + 346 (external repositories) |
 | Lines of code and documents | +76,039 / −7,943 | sum over three repositories (author commits) |
 | Scripts and tools built | ≈ 290 | 18 (camera) + 22 (print layout) + 232 (game project: generation, diagnostics, delivery) + ~20 (knowledge base) |
@@ -300,7 +300,7 @@ Creative track:
 | Параметр | Значение | Откуда |
 |---|---|---|
 | Проектов в портфеле | 12 кейсов: 7 dev + 5 creative | структура портфеля |
-| Коммитов | 128 во внешних репозиториях (из них 103 авторских) + 25 в самом портфеле | PetCam 18/54, Echelon Beyond 37/57, normcontrol-kb 48/53; портфель — локальная git-история |
+| Коммитов | 128 во внешних репозиториях (из них 103 авторских) + 69 в самом портфеле | PetCam 18/54, Echelon Beyond 37/57, normcontrol-kb 48/53; портфель — локальная git-история |
 | Уникальных файлов под правкой | 604 | 40 + 218 + 346 (внешние репозитории) |
 | Строк кода и документов | +76 039 / −7 943 | сумма по трём репозиториям (авторские коммиты) |
 | Скриптов и инструментов создано | ≈ 290 | 18 (видеокамера) + 22 (вёрстка) + 232 (проект игры: генерация, диагностика, доставка) + ~20 (база знаний) |
