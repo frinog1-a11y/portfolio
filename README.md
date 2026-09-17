@@ -25,7 +25,8 @@ automation, CI, and documentation as part of delivery.
 - **cases/dev/** — engineering projects: services in production use, tools, production pipelines.
 - **cases/creative/** — AI-assisted creative work: language models, narrative design, game systems.
 
-Every case exists in two languages: `NN-name.en.md` and `NN-name.ru.md`.
+Every case exists in two languages: the English and Russian files sit side by side, marked with .en and .ru
+suffixes in the file name.
 Type: **product** — in use by real users, **method** — a repeatable production approach, **tool** — a set of
 utilities, **demo** — a public showcase. Rating shows how mature the result is today.
 
@@ -200,7 +201,7 @@ Creative track:
 
 # Портфель кейсов — Израмор
 
-*(Русская версия. Английская — выше разделителя; файлы существуют в двух вариантах: `.en.md` и `.ru.md`.)*
+*(Русская версия. Английская — выше разделителя; файлы существуют в двух вариантах — с суффиксами .en и .ru.)*
 
 
 
