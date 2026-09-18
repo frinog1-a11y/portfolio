@@ -2,6 +2,8 @@
 
 *Russian version below the divider.*
 
+Landing: https://frinog1-a11y.github.io/izramor/
+
 12 cases in two tracks: **dev** — engineering projects, **creative** — AI-assisted creative R&D. Numbers come
 from git history, project files and scripts; where data does not exist, the text says so. No personal data,
 passwords or private network addresses are included.
@@ -116,7 +118,8 @@ counts) and tool inventories.
 | Between the Lines of the Blueprint | https://frinog1-a11y.github.io/normcontrol-kb/ |
 | Mini-game (easter egg) | https://frinog1-a11y.github.io/normcontrol-kb/echelon |
 | Local projects | C:\PetCam, C:\EchelonBeyond, C:\Normcontrol-KB (private, details on request) |
-| This portfolio | C:\Portfolio (git repository, local history) |
+| This portfolio | https://github.com/frinog1-a11y/portfolio (public; local copy at C:\Portfolio) |
+| Landing | https://frinog1-a11y.github.io/izramor/ |
 
 ## Not included (and why)
 
@@ -160,8 +163,9 @@ Portfolio-wide:
    when sending the portfolio to people without Git.
 3. **Usage metrics.** Not collected: knowledge base traffic, the number of tasks submitted through the form, motion
    events recorded by the camera.
-4. **Publishing the portfolio.** Not done yet: the repository is local. Options — a separate repository with GitHub
-   Pages, a private archive on request, or sending it to devices.
+4. **Publishing the portfolio.** Done: the repository is public at https://github.com/frinog1-a11y/portfolio,
+   GitHub Pages serves it at https://frinog1-a11y.github.io/portfolio/, and the landing links into it. Still open —
+   a PDF build of the portfolio for people who do not use Git.
 5. **Aligning the ratings.** Five skills are marked "advanced" — a public release should have them confirmed by an
    outside look (code review of the service, the tools and the prompt templates).
 
@@ -211,6 +215,8 @@ Creative track:
 12 кейсов в двух направлениях: **dev** — технические проекты, **creative** — творческие AI-проекты.
 Числа взяты из git-истории, файлов и скриптов; где данных нет — так и написано. Личные данные,
 пароли и адреса приватных сетей в портфель не включены.
+
+Лендинг: https://frinog1-a11y.github.io/izramor/
 
 ## Позиционирование
 
@@ -321,7 +327,8 @@ Creative track:
 | Сайт «Между строк чертежа» | https://frinog1-a11y.github.io/normcontrol-kb/ |
 | Мини-игра (пасхалка) | https://frinog1-a11y.github.io/normcontrol-kb/echelon |
 | Локальные проекты | C:\PetCam, C:\EchelonBeyond, C:\Normcontrol-KB (приватные, детали по запросу) |
-| Этот портфель | C:\Portfolio (git-репозиторий, локальная история) |
+| Этот портфель | https://github.com/frinog1-a11y/portfolio (публичный; локальная копия C:\Portfolio) |
+| Лендинг | https://frinog1-a11y.github.io/izramor/ |
 
 ## Не включено в портфель (и почему)
 
@@ -365,8 +372,9 @@ Creative track:
    полезна одна страница или PDF-версия портфеля.
 3. **Метрики использования.** Не собираются: посещаемость сайта базы знаний, число задач,
    пришедших через форму, число событий движения, зафиксированных видеокамерой.
-4. **Публикация портфеля.** Пока не выполнялась: репозиторий локальный. Варианты — отдельный
-   репозиторий с GitHub Pages, приватный архив по запросу или отправка на устройства.
+4. **Публикация портфеля.** Сделано: репозиторий публичный — https://github.com/frinog1-a11y/portfolio,
+   GitHub Pages отдаёт его по адресу https://frinog1-a11y.github.io/portfolio/, ссылки есть на лендинге.
+   Осталось — PDF-версия портфеля для тех, кто не пользуется Git.
 5. **Выравнивание оценок.** Пять навыков помечены «продвинутый» — при публикации стоит
    подтвердить их внешним взглядом (ревью кода сервиса, инструментов и шаблонов).
 
