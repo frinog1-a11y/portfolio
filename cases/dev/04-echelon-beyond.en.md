@@ -39,8 +39,8 @@ not fall apart by iteration ten.
 
 | Metric | Value |
 |---|---|
-| Time spent | 10–13 September 2026 by commit dates; hours not documented |
-| Cost (API) | $0 (local generation on my own GPU) |
+| Time spent | Project is ongoing, started in 2026. |
+| Cost (API) | ≈ $5 — DeepSeek API for Cline orchestration. |
 | Commits | 57 (37 by the author, 20 by agents and Kanban checkpoints) |
 | Files changed | 218 unique |
 | Lines of code and documents | +17,007 / −438 (author commits) |
